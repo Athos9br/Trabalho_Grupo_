@@ -1,7 +1,7 @@
 # Vitrine — Catálogo Interativo de Produtos
 
 ## Integrantes
-- [Adicionar nome dos integrantes]
+- Athos Gabriel Fernandes Branches
 
 ## Descrição
 Aplicação web de catálogo de produtos que consome a API pública DummyJSON. Permite listar, pesquisar, filtrar por categoria, visualizar detalhes e favoritar produtos.
